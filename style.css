@@ -1,0 +1,140 @@
+.firstpage{
+    margin-top: 4rem;
+display: flex;
+justify-content: center;
+flex-wrap:wrap-reverse;
+align-items: center;
+}
+
+.div2{
+    margin-left: 3em;
+}
+.image{
+    height: 300px;
+    width: 400px;
+}
+.info{
+    color: red;
+}
+.secondpage{
+    background-color: #f7f7f7;
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+    align-items: center;
+}
+.div4{
+    margin-left: 3em;
+}
+.thirdpage{
+    text-align: center;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+    align-items: center;
+}
+.tag{
+    margin-top: 3rem;
+    text-align: center;
+}
+.image3{
+    height: 125px;
+    width: 333px;
+
+}
+.forthpage{
+    
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 6rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+    align-items: center;
+}
+.div8p{
+    margin-left: 6rem;
+}
+.light{
+    color: #4c575e;
+    /* font-size: .8rem; */
+    font-weight: 300;
+}
+.image4{
+    height: 66px;
+    width: 150px;
+}
+.image5{
+    height: 60px;
+    width: 145px;
+    margin-top: 0rem;
+}
+.nav-link{
+    color: #4c575e;
+    margin-top: 2rem;
+    margin: 1.5rem;
+    font-size:larger;
+}
+/* .navbar-collapse{
+display: flex;
+justify-content: space-evenly;
+} */
+/* a .nav-link{
+margin-top: 0px;
+} */
+.navbar-expand-lg .navbar-collapse {
+    margin-left: 15rem;
+}
+@media (max-width:1150px) {
+    .firstpage{
+        text-align: center;
+    }
+    .thirdpage{
+        text-align: center;
+    }
+    .div8{
+        margin-top: 30px;
+        text-align: center;
+    }
+    .div9{
+        margin-top: 30px;
+        text-align: center;
+    }
+    .div10{
+        margin-top: 30px;
+        text-align: center;
+    }
+    .div8p{
+        margin-left: 0rem;
+    }
+    .image3{
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+    .lasttext{
+        font-size: small;
+    }
+    .nav-link{
+        color: #4c575e;
+        margin-top: 2rem;
+        margin: 0rem;
+        font-size:small;
+    }
+
+}
+.lastdiv{
+    background-color: red;
+    text-align: center;
+    height: 60px;
+    color: white;
+    margin-top: 30px;
+}
+.lasttext{
+    padding-top: 15px;
+    color: white;
+}
+.navbar-toggler-icon {
+    color: red;
+}
