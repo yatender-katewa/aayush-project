@@ -138,3 +138,10 @@ margin-top: 0px;
 .navbar-toggler-icon {
     color: red;
 }
+.image{
+    height: 131px;
+    width: 128px;
+}
+.navbar-toggler-icon {
+    background-image: url("last.jpg");
+}
